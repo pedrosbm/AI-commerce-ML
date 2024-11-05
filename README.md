@@ -1,9 +1,12 @@
 Esse repositório é dedicado ao versionamento do treinamento da ia da AI-Commerce, solução de e-commerce com IA em parceria a plusoft.
 
-Nessa **sprint4**, desenvolvemos um front end pra simular o e-commerce, com o objetivo de demonstrar como fazer a integração da nossa ia com plataformas digitais.
+Nessa **sprint4**, fizemos um vídeo de considerações finais sobre o projeto abordando os tópicos:
 
-O vídeo explicativo sobre o código fonte se encontra no link abaixo
+- Importância da IA no mercado
+- Nossa jornada de desenvolvimento
+- dificuldades enfrentadas
+- considerações finais
 
 ---
 
-[Vídeo Sobre a nova api](https://youtu.be/R5fqJciU11Q)
+[Vídeo Sobre a nova api](https://youtu.be/Xk6Hqa9gzAM)
